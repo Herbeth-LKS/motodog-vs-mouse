@@ -1,0 +1,11 @@
+# Saídas de compilação do GameMaker
+*.resource_order
+*.old
+*.zip
+*.exe
+*.appimage
+tmp/
+output/
+
+# GDD em PDF (contém nomes dos integrantes da equipe)
+GDD_Motodog_vs_Mouse_Completo.pdf
